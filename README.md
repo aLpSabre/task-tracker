@@ -1,7 +1,5 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-003 : Task Tracker (RP-03)
+# Project Task Tracker
 
 ## Description
 
@@ -11,6 +9,20 @@ Project aims to create a Task Tracker App.
 
 - We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
 
+### Screenshot
+💻-Desktop-view
+<br/>
+![Desktop-view](./screenshots/desktop-view.gif)
+<br/>
+📱-Mobile-view
+<br/>
+![Mobile-view](./screenshots/mobile-view.gif)
+
+
+### Links
+
+- Solution URL: [Click here](https://github.com/aLpSabre/task-tracker)
+- Live Site URL: [Click here](https://alpsabre.github.io/task-tracker/)
 
 ## Objective
 
@@ -28,28 +40,3 @@ Build a Task Tracker App using ReactJS.
 
 - Axios
 
-### At the end of the project, students will be able to;
-
-- improve coding skills within HTML & CSS & JS & ReactJS.
-
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
-
-## Steps to Solution
-
-- Step 1: Create React App using `npx create-react-app task-tracker`
-
-- Step 2 : Install `"react-icons"` package to your `package.json` for icons.
-
-- Step 3: Build Task Tracker App.
-
-- Step 4: You can use CSS frameworks like Bootstrap, Semantic UI.
-
-- Step 5: Push your application into your own public repo on Github
-
-- Step 6: Add project gif to your project and README.md file.
-
-## Notes
-
-- You can add additional functionalities to your app.
-
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
